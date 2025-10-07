@@ -1,0 +1,26 @@
+{
+  "name": "api_connection_with_database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node api_file"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purushottamji/api_connection_with_database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Purushottamji/api_connection_with_database/issues"
+  },
+  "homepage": "https://github.com/Purushottamji/api_connection_with_database#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.15.1"
+  }
+}
