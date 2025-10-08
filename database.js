@@ -7,3 +7,5 @@ db.connect((error)=>{
     if(error) return console.log("database error :- "+ error);
     console.log("❤️ database created");
 })
+
+module.exports=db;
